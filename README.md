@@ -1,4 +1,7 @@
-# ECommerce-Management-System---RESTful-API-with-Node.js-and-MongoDB
+# Mini E-Commerce-Application using MERN 
+
+# Frontend
+- React JS 
 
 # Control Flow
 # Server Initialization:
